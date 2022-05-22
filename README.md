@@ -3,8 +3,8 @@
 
 <!--- Adding Header Elements -->
 <p align="center">
-  <a href="[http://sanjaykv.com](https://github.com/COMP2200-S1-2022/data-science-portfolio-saakshi-mk28)/">Portfolio</a> -
-  <a href="https://www.linkedin.com/in/saakshi-khatri/">LinkedIn</a> - 
+  <a href="https://github.com/COMP2200-S1-2022/data-science-portfolio-saakshi-mk28/">Portfolio</a> -
+  <a href="https://www.linkedin.com/in/saakshi-khatri/">LinkedIn</a> 
  
 
 -----------------------------------------------------------
