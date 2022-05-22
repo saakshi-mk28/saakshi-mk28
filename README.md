@@ -1,21 +1,18 @@
 <!--- Body Begins -->
-<h1 align="center"> Hi there, I'm <a href="https://recodehive.com/sanjay">Saakshi</a> </h1>
+<h1 align="center"> Hi there, I'm Saakshi</a> </h1>
 
 <!--- Adding Header Elements -->
 <p align="center">
-  <a href="http://sanjaykv.com/">Portfolio</a> -
-  <a href="https://www.linkedin.com/in/sanjay-k-v/">LinkedIn</a> - 
-  <a href="https://twitter.com/sanjay_k_v">Twitter</a> -
-  <a href="https://stackoverflow.com/story/sanjaykv">Stackoverflow</a> -
-  <a href="https://crowdsource.google.com/about/blog/community-spotlight-friendship/">Google Featured</a></p>
+  <a href="[http://sanjaykv.com](https://github.com/COMP2200-S1-2022/data-science-portfolio-saakshi-mk28)/">Portfolio</a> -
+  <a href="https://www.linkedin.com/in/saakshi-khatri/">LinkedIn</a> - 
+ 
 
 -----------------------------------------------------------
 👨🏻‍💻 **About Me**<img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right"> 
-✨ Ex-Software Engineer at LTI <br>
+✨ Ex-Senior Sotware Analyst at LTFS & Accenture <br>
 ⚡ Check my ✨ [Website](https://recodehive.com/) or 🌱 [eBook](https://learn.recodehive.com/datascience)<br>
-📫 How to reach me: [Schedule Call](https://recodehive.com/consultation/) or visit  [LinkedIn](https://www.linkedin.com/in/sanjay-k-v/)<br>
-👯 Join my opensource community [recodehive](https://github.com/Recode-Hive)<br>
-💬 Ask me about SEO/Data Science<br>
+📫 How to reach me:  visit  [LinkedIn](https://www.linkedin.com/in/saakshi-khatri/)<br>
+
 <!--- Adding Tech Stack open Section -->
 
 <details>	
